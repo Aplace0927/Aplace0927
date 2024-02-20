@@ -22,11 +22,10 @@ Usually playing CTF as a member of `PLUS`.
   - ⌛ Develop faster symbolic execution & analysis tool
 
 ### Social
-  - [✍️](https://beyond-the-line-a.place)
-  - [📧](aplace030927@gmail.com)
-  - [𝕏](https://twitter.com/__aplace__)
-  - [📸](https://twitter.com/__aplace__)
 
+<a href="https://beyond-the-line-a.place" target="_blank"><img src="https://img.shields.io/badge/beyond--the--line--a.place-ffc639?style=flat-square&logo=tistory&logoColor="#000000"/></a>
+<a href="aplace030927@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aplace030927@gmail.com-c71610?style=flat-square&logo=gmail&logoColor="#000000"/></a>
+<a href="https://twitter.com/__aplace__" target="_blank"><img src="https://img.shields.io/badge/@__aplace__-000000?style=flat-square&logo=x&logoColor="#000000"/></a>
+<a href="https://instagram.com/__aplace__" target="_blank"><img src="https://img.shields.io/badge/@__aplace__-c13584?style=flat-square&logo=instagram&logoColor="#000000"/></a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Aplace0927&show_icons=true&theme=onedark)
-![Problem Solving](https://solvedac-cards-starcea.paring.moe/profile/Aplace0927)
+![Problem Solving](https://solvedac-cards-starcea.paring.moe/profile/Aplace0927?size=200)
