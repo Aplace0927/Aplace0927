@@ -21,8 +21,8 @@ Ongoing experiences are marked as **BOLD** font.
   - 2024.06 ~ 2024.06: Internship at AUTOCRYPT
     - Developed OP-TEE OS fuzzer.
   - **2024.02 ~        : Member of [G-POS](https://gpos.postech.ac.kr/wordpress/), the game development club in POSTECH.**
-  - 2023.10 ~ 2024.10: President of [PLUS](https://plus.or.kr)
-  - **2022.09 ~        : Member of PLUS**
+  - 2023.10 ~ 2024.10: President of PLUS
+  - **2022.09 ~        : Member of [PLUS](https://plus.or.kr), the cybersecurity researching club in POSTECH.**
   - 2021.03 ~ 2022.02: Vice President of MAD (AI study group @ Jeonbuk Science High School)
     - Held seminars.
     - Data analysis project: Relation between amount of leftover foods and name of school meal menu.
@@ -30,6 +30,8 @@ Ongoing experiences are marked as **BOLD** font.
     - Developed student's board app.
 
 ## Flags captured
+  - 2024 HITCON CTF `Cold Fusion`, 6th Place
+  - Hack The Drone 2024 Final `CompSec`, Technical Award
   - 2024 POSTECH-KAIST Science War `PLUS`, 2nd Place 🥈
   - Hack The Drone 2024 Qualifier `CompSec`, 2nd Place 🥈
   - 2024 DEF CON CTF `Cold Fusion`, 9th Place
