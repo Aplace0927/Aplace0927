@@ -10,10 +10,9 @@ Currently in junior of Computer Science & Engineering Department @ POSTECH.
   - 🤖 Compilers!
 
 ## Ongoing Projects
-  - ✍️ Code rewriting for reducing vulnerability.
+  - ✍️ Code analysis & rewriting for reducing potential vulnerability.
   - 🦹 Motion capture acting & engineering.
   - 🔧 gdb scripting and plugins to speed-up binary analysis.
-  - 📟 Analyzing PintOS code and making a code 'map'.
 
 ## Experiences
 Ongoing experiences are marked as **BOLD** font.
@@ -30,6 +29,8 @@ Ongoing experiences are marked as **BOLD** font.
     - Developed student's board app.
 
 ## Flags captured
+  - 202d DEF CON CTF Quals `Cold Fusion`, 8th Place
+  - 2025 SSU CTF `PLUS`, 2nd place 🥈
   - 2024 HITCON CTF `Cold Fusion`, 6th Place
   - Hack The Drone 2024 Final `CompSec`, Technical Award
   - 2024 POSTECH-KAIST Science War `PLUS`, 2nd Place 🥈
