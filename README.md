@@ -2,7 +2,7 @@
 
 I'm **Taeyeon Kim**, known as `Aplace`.
 
-Currently in junior of Computer Science & Engineering Department @ POSTECH.
+Currently in senior of Computer Science & Engineering Department @ POSTECH.
 
 ## Interested Fields 
   - ⚙️ Reverse engineering (Mainly) and system hacking
@@ -17,6 +17,7 @@ Currently in junior of Computer Science & Engineering Department @ POSTECH.
 ## Experiences
 Ongoing experiences are marked as **BOLD** font.
   - **2024.09 ~        : Undergrad. Research intern at [POSTECH CompSecLab](https://compsec.postech.ac.kr)**
+    - 2025.02 ~ 2025.06: [CSED499I - Research Project] *CFG Analysis Based Open-Source Library Vulnerability Management*
   - 2024.06 ~ 2024.06: Internship at AUTOCRYPT
     - Developed OP-TEE OS fuzzer.
   - **2024.02 ~        : Member of [G-POS](https://gpos.postech.ac.kr/wordpress/), the game development club in POSTECH.**
@@ -29,7 +30,7 @@ Ongoing experiences are marked as **BOLD** font.
     - Developed student's board app.
 
 ## Flags captured
-  - 202d DEF CON CTF Quals `Cold Fusion`, 8th Place
+  - 2025 DEF CON CTF Quals `Cold Fusion`, 8th Place
   - 2025 SSU CTF `PLUS`, 2nd place 🥈
   - 2024 HITCON CTF `Cold Fusion`, 6th Place
   - Hack The Drone 2024 Final `CompSec`, Technical Award
@@ -49,7 +50,7 @@ Ongoing experiences are marked as **BOLD** font.
 ---
 ### Contacts
 
-[![beyond-the-line-a.place](https://img.shields.io/badge/beyond--the--line--a.place-ffc639?style=flat-square&logo=tistory&logoColor="#000000")](https://beyond-the-line-a.place)
-[![aplace030927@gmail.com](https://img.shields.io/badge/aplace030927@gmail.com-c71610?style=flat-square&logo=gmail&logoColor="#000000")](mailto:aplace030927@gmail.com)
-[![@\__aplace__](https://img.shields.io/badge/@__aplace__-000000?style=flat-square&logo=x&logoColor="#000000")](https://twitter.com/__aplace__)
-[![@\__aplace__](https://img.shields.io/badge/@__aplace__-c13584?style=flat-square&logo=instagram&logoColor="#000000")](https://instagram.com/__aplace__)
+[![beyond-the-line-a.place](https://img.shields.io/badge/beyond--the--line--a.place-ffc639?style=for-the-badge&logoColor="#000000")](https://beyond-the-line-a.place)
+[![aplace030927@gmail.com](https://img.shields.io/badge/aplace030927@gmail.com-c71610?style=for-the-badge&logo=gmail&logoColor="#000000")](mailto:aplace030927@gmail.com)
+[![@\__aplace__](https://img.shields.io/badge/@__aplace__-000000?style=for-the-badge&logo=x&logoColor="#000000")](https://twitter.com/__aplace__)
+[![@\__aplace__](https://img.shields.io/badge/@__aplace__-c13584?style=for-the-badge&logo=instagram&logoColor="#000000")](https://instagram.com/__aplace__)
